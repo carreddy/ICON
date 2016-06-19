@@ -1,0 +1,31 @@
+{ 
+	"wallpapers": 
+		[
+			{
+				"name": "Night",
+				"author": "Inclitus",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg"
+			},
+			{
+				"name": "Fabric",
+				"author": "Inclitus",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+			},
+			{
+				"name": "Shape",
+				"author": "Inclitus",
+				"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",		
+			},
+			{
+				"name": "Pattern",
+				"author": "Inclitus",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Arrows.png",
+			},
+			{
+				"name": "Wall",
+				"author": "Inclitus",
+				"url": "http://www.jahirfiquitiva.net/frames/wallpapers/BlackAndWhite/Arrows.png",
+			
+			}
+		]
+}
